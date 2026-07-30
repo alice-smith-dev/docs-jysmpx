@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-elmfau.yoursingles.online/sitemap.xml
